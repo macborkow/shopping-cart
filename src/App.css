@@ -65,11 +65,19 @@ h3 {
   color: rgb(214, 199, 178);
   transition: 0.2s ease-out;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 
 .cart:hover {
   height: 35vh;
+}
+
+.cart p {
+  margin: 0;
+  display: block;
+  width: 100vw;
+  text-align: center;
 }
 
 .noComponent {

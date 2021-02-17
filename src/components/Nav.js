@@ -5,7 +5,7 @@ import "../App.css";
 const Nav = () => {
   const navStyle = {
     color: "rgb(214, 199, 178)",
-    "text-decoration": "none",
+    "textDecoration": "none",
   };
 
   return (
