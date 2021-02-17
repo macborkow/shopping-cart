@@ -16,6 +16,73 @@ ul {
 
 .app {
   background-color: rgb(214, 199, 178);
-  color:rgb(75, 71, 71);
-  height: 100vh;
+  color: rgb(75, 71, 71);
+  min-height: 100vh;
+}
+
+.item {
+  background-color: rgb(182, 169, 151);
+  width: 30vw;
+  height: 25vw;
+  border-radius: 40%;
+  margin: 1vh;
+  opacity: 0.8;
+}
+
+.item img {
+  width: 60%;
+  height: auto;
+  border-radius: 40%;
+}
+
+.item h2 {
+  font-size: 3vw;
+  padding: 0;
+  margin: 1vw;
+}
+
+.shop {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  text-align: center;
+  min-height: 95vh;
+}
+
+h3 {
+  text-align: center;
+  width: 100vw;
+}
+
+.cart {
+  width: 100%;
+  position: sticky;
+  bottom: 0vh;
+  background-color: rgb(75, 71, 71);
+  height: 3vh;
+  color: rgb(214, 199, 178);
+  transition: 0.2s ease-out;
+  display: flex;
+  justify-content: space-around;
+}
+
+.cart:hover {
+  height: 35vh;
+}
+
+.noComponent {
+  height: 85vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (max-width: 900px) {
+  .item {
+    width: 40vw;
+    height: 35vw;
+  }
 }
