@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Shopping cart
+
+Made as a part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
