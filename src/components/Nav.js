@@ -13,17 +13,17 @@ const Nav = () => {
       <h3>DARKNET STORE</h3>
       <ul>
         <li>
-          <Link style={navStyle} to="/">
+          <Link style={navStyle} to="/shopping-cart/">
             Home
           </Link>
         </li>
         <li>
-          <Link style={navStyle} to="/about">
+          <Link style={navStyle} to="/shopping-cart/about">
             About
           </Link>
         </li>
         <li>
-          <Link style={navStyle} to="/shop">
+          <Link style={navStyle} to="/shopping-cart/shop">
             Shop
           </Link>
         </li>
