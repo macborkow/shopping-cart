@@ -21,7 +21,7 @@ ul {
 }
 
 .item {
-  background-color: rgb(182, 169, 151);
+  background-color: rgb(211, 196, 175);
   width: 30vw;
   height: 25vw;
   border-radius: 40%;
@@ -91,6 +91,6 @@ h3 {
 @media only screen and (max-width: 900px) {
   .item {
     width: 40vw;
-    height: 35vw;
+    height: 40vw;
   }
 }

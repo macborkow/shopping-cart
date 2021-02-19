@@ -9,26 +9,32 @@ const App = () => {
     {
       name: "Garloid",
       url: "https://i.kym-cdn.com/photos/images/newsfeed/001/952/284/404.jpg",
+      price: 2.20,
     },
     {
       name: "Garloid2",
       url: "https://i.kym-cdn.com/photos/images/newsfeed/001/952/284/404.jpg",
+      price: 2.20,
     },
     {
       name: "Garloid3",
       url: "https://i.kym-cdn.com/photos/images/newsfeed/001/952/284/404.jpg",
+      price: 2.20,
     },
     {
       name: "Garloid4",
       url: "https://i.kym-cdn.com/photos/images/newsfeed/001/952/284/404.jpg",
+      price: 2.20,
     },
     {
       name: "Garloid5",
       url: "https://i.kym-cdn.com/photos/images/newsfeed/001/952/284/404.jpg",
+      price: 2.20,
     },
     {
       name: "Garloid6",
       url: "https://i.kym-cdn.com/photos/images/newsfeed/001/952/284/404.jpg",
+      price: 2.20,
     },
   ];
 
