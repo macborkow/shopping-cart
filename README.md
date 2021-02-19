@@ -2,6 +2,8 @@
 
 Made as a part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
+[link](https://macborkow.github.io/shopping-cart/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
